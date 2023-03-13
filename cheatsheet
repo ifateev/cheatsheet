@@ -1,0 +1,4 @@
+grep -rn --include=\*.{cpp,h} 'text' .
+grep -rn --include=\*.{cpp,hpp} 'text' .
+grep -rn --include=\*.{js,ts} 'text' .
+
